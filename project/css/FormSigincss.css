@@ -1,0 +1,19 @@
+.sign 
+{
+   
+    display: flex;
+    justify-content: center;
+  
+}
+.log
+{
+   
+    display: flex;
+    justify-content: center;
+
+}
+#footer 
+{
+    position:absolute;
+    bottom:0;
+}
